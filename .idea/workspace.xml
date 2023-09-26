@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5da291e-216d-4949-8080-09ed0a126121" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="8761e909-6c82-4e89-a174-ca09c4d607d9" />
+  <component name="ProjectId" id="1l2g7F4nf8XsKxenqbu1QFioZyq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/additional_exp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\model\individual\allfeatures" />
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\src_temp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\additional_exp" />
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\src" />
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\graph_미완료\sample_data" />
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\model" />
+      <recent name="C:\Users\jspirit\PycharmProjects\GazeImmersion\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.temp">
+    <configuration name="boundingbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jspirit\Anaconda3\envs\py36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_temp/boundingbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boundingbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jspirit\Anaconda3\envs\py36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jspirit\PycharmProjects\GazeImmersion\src_temp\boundingbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="individual_loocv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/individual_loocv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="individual_loocv_exp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_temp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_temp/individual_loocv_exp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jspirit\Anaconda3\envs\immersion\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_temp/rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GazeImmersion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jspirit\Anaconda3\envs\py36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_temp/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.boundingbox" />
+      <item itemvalue="Python.individual_loocv" />
+      <item itemvalue="Python.individual_loocv_exp" />
+      <item itemvalue="Python.rename" />
+      <item itemvalue="Python.temp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.boundingbox" />
+        <item itemvalue="Python.individual_loocv_exp" />
+        <item itemvalue="Python.individual_loocv" />
+        <item itemvalue="Python.rename" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5da291e-216d-4949-8080-09ed0a126121" name="Default Changelist" comment="" />
+      <created>1606800430508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606800430508</updated>
+      <workItem from="1606800431549" duration="1880000" />
+      <workItem from="1607402551711" duration="976000" />
+      <workItem from="1607403961382" duration="32295000" />
+      <workItem from="1609720982847" duration="2560000" />
+      <workItem from="1609909184851" duration="784000" />
+      <workItem from="1609919561829" duration="3432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="178" key="#Inspections" timestamp="1606907633957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="178" key="#Inspections/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606907633957" />
+    <state x="-1507" y="174" width="1094" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609916581761">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1507" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609916581761" />
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607422346860" />
+    <state x="413" y="174" width="1094" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606802485166" />
+    <state x="727" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607434254510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607434254510" />
+    <state x="727" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606899257310" />
+    <state x="513" y="83" width="1200" height="856" key="DiffContextDialog" timestamp="1607045836106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="83" width="1200" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606898323180" />
+    <state x="513" y="83" width="1200" height="856" key="DiffContextDialog/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607045836106" />
+    <state width="715" height="902" key="GridCell.Tab.0.bottom" timestamp="1609941333610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="926" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609916668499" />
+    <state width="715" height="902" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609941333610" />
+    <state width="675" height="910" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606898234555" />
+    <state width="697" height="910" key="GridCell.Tab.0.bottom/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="715" height="902" key="GridCell.Tab.0.center" timestamp="1609941333609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="926" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609916668499" />
+    <state width="715" height="902" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609941333609" />
+    <state width="675" height="910" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606898234555" />
+    <state width="697" height="910" key="GridCell.Tab.0.center/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="715" height="902" key="GridCell.Tab.0.left" timestamp="1609941333609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="926" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609916668498" />
+    <state width="715" height="902" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609941333609" />
+    <state width="675" height="910" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606898234555" />
+    <state width="697" height="910" key="GridCell.Tab.0.left/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="715" height="902" key="GridCell.Tab.0.right" timestamp="1609941333610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="926" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609916668499" />
+    <state width="715" height="902" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609941333609" />
+    <state width="675" height="910" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606898234555" />
+    <state width="697" height="910" key="GridCell.Tab.0.right/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom" timestamp="1608964063874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608964063874" />
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606897870356" />
+    <state width="697" height="910" key="GridCell.Tab.1.bottom/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="1875" height="347" key="GridCell.Tab.1.center" timestamp="1608964063873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608964063873" />
+    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606897870356" />
+    <state width="697" height="910" key="GridCell.Tab.1.center/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="1875" height="347" key="GridCell.Tab.1.left" timestamp="1608964063873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608964063873" />
+    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606897870355" />
+    <state width="697" height="910" key="GridCell.Tab.1.left/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state width="1875" height="347" key="GridCell.Tab.1.right" timestamp="1608964063873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608964063873" />
+    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606897870356" />
+    <state width="697" height="910" key="GridCell.Tab.1.right/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325566763" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606802307519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606802307519" />
+    <state x="-1920" y="0" width="1401" height="716" key="dock-window-1" timestamp="1607422027647">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" width="1401" height="716" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607422027647" />
+    <state x="653" y="251" width="613" height="538" key="find.popup" timestamp="1606802886073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="251" width="613" height="538" key="find.popup/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606802886073" />
+    <state x="732" y="393" width="611" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606802265284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="393" width="611" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606802265284" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607407202839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607407202839" />
+    <state x="623" y="225" key="search.everywhere.popup/1920.-9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606917326390" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/population_loocv_V2.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/normalize_per_person.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graph_미완료/save_mean_std.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/boundingbox.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/boundingbox.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/boundingbox.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/temp.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/temp.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src_temp/rename.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="user_data" />
+        <watch expression="test_index" />
+        <watch expression="test_data" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

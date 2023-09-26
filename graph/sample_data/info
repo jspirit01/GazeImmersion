@@ -1,0 +1,8 @@
+This sample data is for draw immersion probability graph.
+They are the gaze recording data of user 6.
+
+The recording data for a video is segmented by cumulative 10 seconds.
+For example, '2_seg1' indicates first segment of recorded data of video 2.
+
+
+
