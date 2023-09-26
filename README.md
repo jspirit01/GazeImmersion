@@ -6,7 +6,7 @@ Model for measuring immersion (immersive or not) based on the user's gaze data w
 This code provides some functions as follows:
 - [x] Uses seven ML classifiers such as SVM, kNN, LogisticRegression, DecisionTree, RandomForest, AdaBoost, and NaiveBayes.
 - [x] Improves accuracy with feature selection
-- :heavy_check_mark: Population model vs. individual model
+- [x] Population model vs. individual model
 
 For more details, please see our research paper.
 
