@@ -2,8 +2,8 @@
 # Immersion Measurement
 Model for measuring immersion (immersive or not) based on the user's gaze data while watching videos.
 
-![immersion-measurement](https://github.com/user-attachments/assets/41ec6a34-8a47-48f9-a548-009f6b295f25)
 
+<img src="immersion-measurement.jpeg" alt="drawing" width="200"/>
 
 This code provides some functions as follows:
 - [x] Uses seven ML classifiers such as SVM, kNN, LogisticRegression, DecisionTree, RandomForest, AdaBoost, and NaiveBayes.
